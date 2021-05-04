@@ -1,7 +1,4 @@
 
-
-\[“autolanguage”\]
-
 El examen se deberá subir al classroom antes de las 10:00 PM del 17 de
 enero de 2021. Las preguntas 1, 2 y 6 tienen un valor de 1.5, mientras
 que las preguntas 3, 4 y 5 valen 2 puntos cada una. La pregunta 7 es
